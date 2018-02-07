@@ -1,4 +1,4 @@
 # aesth-prog
-Desdjfg
+Velkommen til!
 
-nuasdgalshi auhef
+Her lægger jeg mine ugentlige opgaver op. Tror jeg nok.
