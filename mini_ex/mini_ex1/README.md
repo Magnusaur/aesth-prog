@@ -1,5 +1,5 @@
 # My first... thing
-It's like an awful (even worse) version of MS Paint. Maybe. [Give it a shot!](https://cdn.rawgit.com/Magnusaur/aesth-prog/c90f43e9/mini_ex/mini_ex1/p5/empty-example/index.html) Also, try clicking the left mouse button.
+It's like an awful (even worse) version of MS Paint. Maybe. [Give it a shot!](https://cdn.rawgit.com/Magnusaur/aesth-prog/a83fb44b/mini_ex/mini_ex1/p5/empty-example/index.html) Also, try clicking the left mouse button.
 
 ![alt text](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex1/screenshot.png)
 
