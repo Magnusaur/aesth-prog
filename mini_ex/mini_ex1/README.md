@@ -1,8 +1,6 @@
 # My first... thing
 
-It's like an awful (even worse) version of MS Paint. Maybe. [Give it a shot!][https://cdn.rawgit.com/Magnusaur/aesth-prog/c90f43e9/mini_ex/mini_ex1/p5/empty-example/index.html] Also, try clicking the left mouse button.
-
-Is this *working*?
+It's like an awful (even worse) version of MS Paint. Maybe. [Give it a shot!](https://cdn.rawgit.com/Magnusaur/aesth-prog/c90f43e9/mini_ex/mini_ex1/p5/empty-example/index.html) Also, try clicking the left mouse button.
 
 I must admit that my first coding project is rather unambitious. That's okay. We're just getting started. You can decorate the entire screen with purple dots. IF you press the left mouse button, the circle gets bigger and the color changes. Incredible!
 I think it's safe to say, that I did not dive right into the many possibilities of p5. Feeling a degree of apprehension, I stuck with something conservative: something I at least knew would work.
