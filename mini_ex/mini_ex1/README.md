@@ -1,4 +1,7 @@
 # My first... thing
+
+
+
 It's like an awful (even worse) version of MS Paint. Maybe. [Give it a shot!](https://cdn.rawgit.com/Magnusaur/aesth-prog/c90f43e9/mini_ex/mini_ex1/p5/empty-example/index.html) Also, try clicking the left mouse button.
 
 ## "THE CODE, THE CODE - FIGURE OUT THE CODE!"
