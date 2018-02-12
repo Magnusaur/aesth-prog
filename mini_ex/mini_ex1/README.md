@@ -1,6 +1,8 @@
 # My first... thing
 It's like an awful (even worse) version of MS Paint. Maybe. [Give it a shot!](https://cdn.rawgit.com/Magnusaur/aesth-prog/c90f43e9/mini_ex/mini_ex1/p5/empty-example/index.html) Also, try clicking the left mouse button.
 
+![alt text](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex1/screenshot.png)
+
 ## "THE CODE, THE CODE - FIGURE OUT THE CODE!"
 I must admit that my first coding project is rather unambitious. That's okay, though. We're just getting started. You can decorate the entire screen with purple circles. If you press the left mouse button, the circle gets bigger and the color changes. Incredible! I think a simple (and 'mechanical') variable like pressing a key or mouse button, could hold a lot of potential. Especially in terms of creating something game-like. I kept things simple and did not dive right into the many possibilities of p5. Feeling a degree of apprehension, I stuck with something conservative: something I at least knew would work.
 
