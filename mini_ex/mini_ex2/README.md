@@ -1,5 +1,5 @@
 # A Fun Drawing
-This week's task was to create something fun(ny) through the use of simple shapes. Check out my [interactive smiley](https://cdn.rawgit.com/Magnusaur/aesth-prog/566d5490/mini_ex/mini_ex2/p5/empty-example/index.html). You can click and move the mouth and the eyes will follow you around.
+This week's task was to create something fun(ny) through the use of simple shapes. Check out my [interactive smiley](https://cdn.rawgit.com/Magnusaur/aesth-prog/566d5490/mini_ex/mini_ex2/p5/empty-example/index.html). You can click and move the mouth and nose and the eyes will follow you around.
 
 ![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex2/face.png)
 
