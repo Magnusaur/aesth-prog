@@ -3,4 +3,4 @@ Worried about the increasingly suffocating presence of surveillance? Feeling par
 
 ![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex4/concern_screenshot.png)
 
-## 
+##"This place is bugged...!"
