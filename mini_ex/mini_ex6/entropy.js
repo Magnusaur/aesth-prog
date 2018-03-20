@@ -43,6 +43,7 @@ class Ball {
     }
     if (this.y > 500 || this.y < 0) {
       (this.yspeed = this.yspeed * -1)
+      append(ball, new Ball(random(0, 500), random(0, 500), 10, random(-5, 5), random(-5, 5)));
     }
   }
 }
