@@ -10,7 +10,7 @@ var forskudtY = 0;
 function preload() {
   TypeWriter = loadSound('TypeWriter.wav');
   Ding = loadSound('Ding.wav');
-  bg = loadImage('paper.jpg');
+  bg = loadImage('Paper.jpg');
   MonkeySound = loadSound('Abelyd.mp3');
 }
 function setup() {
