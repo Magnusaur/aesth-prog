@@ -13,6 +13,6 @@ As a concept, we relatively quickled settled on the nature and 'purpose' of the 
 
 Perhaps none of this is terribly exciting to read about. But it did engender a sense of working on a 'real project', as opposed to hacking away on your own private string of code that no one is really going to look at. Unconsciously, I think both of us wanted to adhere to functions and commands that were (are) at this point, familiar to everyone involved. Meaning both of us. It needed to be legible to the other part, lest one of us mistake the importance or role of some particular line of code and then start tampering with it. So the process was interesting and different. Broadly speaking, the types of challenges we faced can be split into two categories: 
 1) This new snappy function could be super useful and elegant but we don't really know how it works,
-
 2) This thing is pretty straight-forward, but kind of dull and time consuming.
+
 Case in point, the split-string-array function was incredibly useful and very elegant. Until it did not work as intended and we found ourselves blackboxed by our own design. Conversely, the excess of if-statements and text strings is nasty, brutish and quite long to look at, but gets the job done with little to no risk of failure. It was particularly during the former type of challenges that we experienced frustration, anxiety, despair and eventual relief. And it was on one such occasion that Martin brilliantly remarked how this whole monkeys-on-typewriters concept was becoming all too real and all too relatable.
