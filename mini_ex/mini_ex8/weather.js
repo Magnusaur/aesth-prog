@@ -3,7 +3,7 @@ var speed = 0;
 
 function setup() {
   createCanvas(600, 400);
-  loadJSON('http://api.openweathermap.org/data/2.5/weather?q=Mogan&units=metric&id=524901&APPID=272fdbead445cf89960311474cc311c9', gotData);
+  loadJSON('https://api.openweathermap.org/data/2.5/weather?q=Mogan&units=metric&id=524901&APPID=272fdbead445cf89960311474cc311c9', gotData);
 }
 
 function gotData(data) {
