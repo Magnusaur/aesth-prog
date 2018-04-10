@@ -1,4 +1,6 @@
 # Wish You Were Here
+<i>By Magnus Laursen & No One Else</i>
+
 Spring is finally here. Here to stay? We'll have to wait and see. To commemorate the event, I made the API equivalent to 'Hello World' - a program based on weather data! [Click here](https://cdn.rawgit.com/Magnusaur/aesth-prog/df88f3c5/mini_ex/mini_ex8/weather_index.html) to check a look.
 
 ![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex8/weather_screenshot.png)
