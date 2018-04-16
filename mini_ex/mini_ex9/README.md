@@ -15,8 +15,9 @@ So, we sat together in a group and talked about ideas for the final project. We 
 
 We envisioned some kind of game, possibly a derivative of Pac-Man, in which light plays a central role. Not just in the game, but also outside of. We discussed using a light-dependent resistor as part of the control scheme. Personally, I think this flowchart is legible, but too complex, owing to 1) our desire and enthusiasm to actually work on the game, suggesting all sorts of ideas and 2) having not settled on certain aspects of the game, being required to keep certain elements rather vague, like the exact role and purpose of the resistor. 
 
-### Some kind of webpage
 The second flowchart is this.
+### Some kind of webpage
+
 ![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex9/webpage_chart.jpg)
 
 ... In which an API providing data about convicts, including mugshots (yes, it's actually a thing) would be used in conjunction with a faux facebook page. Possibly to highlight the grotesque nature of certain API's or how facebook is actually a prison, or whatever. In any case, this flowchart is a lot more straight-forward, perhaps because it is a lot more static, with little interaction. 
