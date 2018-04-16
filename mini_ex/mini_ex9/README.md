@@ -8,7 +8,10 @@ Frog Blaster is a game of sorts, where you manually create moving targets (frogs
 And that kind of is the point, isn't it? To get an overview, however simplified, of the program in question. It is interesting how the simplification and the usefulness of flowcharts appear to be intrinsically linked. Of course it depends on who the chart is created for, but in some cases it may ultimately turn out to be just as complex as the underlying code being presented. Still, flowcharts can structure things in a sort of hierarchy and as such I find them to be not just useful, but also rather emblematic of the virtues of the Digital Design programme as a whole: the ability to see things in patterns, hierarchies, (causal) relations, etc. In the creation of flowcharts, however, there is a degree of ambiguity as to how they should be made. In my particular case, I chose to lump certain aspects together (music plays, frog moves) because discerning between them did not see terribly important. Actually, I just realized that you could argue for a more specific flowchart of the frog's behavior. That is, what happens when it is created, when it hits a wall, and so on? Oops. Another question (I hesitate to use the word 'challenge') was how to best represent an almost perpetual source of input from the user (player), like moving the mouse around. In a sense, a flowchart is perhaps as interesting because of what isn't in it.
 
 ## Groupcharts
+So, we sat together in a group and talked about ideas for the final project. We cooked up two different projects and accordingly created two flowcharts. The first one is this.
 
+![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex9/game_chart.jpg)
+![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex9/webpage_chart.jpg)
 
 
 
