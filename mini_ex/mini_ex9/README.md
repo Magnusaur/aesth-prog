@@ -13,7 +13,7 @@ So, we sat together in a group and talked about ideas for the final project. We 
 ### Some kind of game
 ![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex9/game_chart.jpg)
 
-We envisioned some kind of game, possibly a derivative of Pac-Man, in which light plays a central role. Not just in the game, but also outside of. We discussed using a light-dependent resistor as part of the control scheme. Personally, I think this flowchart is legible, but too complex, owing to 1) our desire and enthusiasm to actually work on the game, suggesting all sorts of ideas and 2) having not settled on certain aspects of the game, being required to keep certain elements rather vague, like the exact role and purpose of the resistor. 
+We envisioned some kind of game, possibly a derivative of Pac-Man, in which light plays a central role. Not just in the game, but also outside of. We discussed using a light-dependent resistor as part of the control scheme. Personally, I think this flowchart is legible, but too complex, owing to 1) our desire and enthusiasm to actually work on the game, suggesting all sorts of ideas and 2) having not settled on certain aspects of the game, being required to keep certain elements rather vague, like the exact role and purpose of the resistor. It is perhaps not clear what the exact objective of the game is, nor what it is like to play it. But I do think that the flowchart effectively conveys that not only are there a lot of moving parts at play; they also interact and intersect in interesting ways. 
 
 The second flowchart is this.
 ### Some kind of webpage
