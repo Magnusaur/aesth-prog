@@ -20,8 +20,8 @@ The second flowchart is this.
 
 ![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex9/webpage_chart.jpg)
 
-... In which an API providing data about convicts, including mugshots (yes, it's actually a thing) would be used in conjunction with a faux facebook page. Possibly to highlight the grotesque nature of certain API's or how facebook is actually a prison, or whatever. In any case, this flowchart is a lot more straight-forward, perhaps because it is a lot more static, with little interaction. 
+... In which an API providing data about convicts, including mugshots (yes, it's actually a thing) would be used in conjunction with a faux facebook page. Possibly to highlight the grotesque nature of certain API's or how facebook is actually a prison, or whatever. In any case, this flowchart is a lot more straight-forward, perhaps because it is more static in nature, or because what exactly happens when clicking certain things is not very clear. The flowchart also gives off the impression of being more linear in use, which may or may not actually be the case. 
 
-
-
+## Differences & Difficulties
+How are these two conceptual flowcharts different from the one in the beginning? Well, first of, they refer to something non-existent. We have not actually created these hypothetical programs, and as such it really is not possible to validate their "soundness" or congruity. Or is it? Perhaps one really can point out certain logical contradictions in a flow chart, similarly to how "logic trees" work. Regardless, it is somewhat of a challenge, going through the procedural motions of a program that actually is not there. 
 
