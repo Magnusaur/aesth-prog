@@ -1,5 +1,5 @@
 # Frog Blaster 3000!
-The damn globalists are at it again! Frogs are spreading all over the place and only Alex Jones, conspiratory nutcase <i>extraordinaire</i> can stop them! Push the button to create new frogs - then fire at will to send 'em back to swamp-hell! Don't forget to enable sound. Keep the volume down, though. The beat is damn catchy, but Alex' is notoriously loud-mouthed. [Check a look!](https://cdn.rawgit.com/Magnusaur/aesth-prog/8a132922/mini_ex/mini_ex5/scum_index.html)
+The damn globalists are at it again! Frogs are spreading all over the place and only Alex Jones, conspiratory nutcase <i>extraordinaire</i> can stop them! Push the button to create new frogs - then fire at will to send 'em back to swamp-hell! Don't forget to enable sound. Keep the volume down, though. The beat is damn catchy, but Alex' is notoriously loud-mouthed. [Check a look!](https://ghcdn.rawgit.org/Magnusaur/aesth-prog/master/mini_ex/mini_ex5/scum_index.html)
 
 ![alt](https://github.com/Magnusaur/aesth-prog/blob/master/mini_ex/mini_ex5/scum_screenshot.png)
 
